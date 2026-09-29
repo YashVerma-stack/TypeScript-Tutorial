@@ -60,7 +60,7 @@ const personCandidate: {
     product: [number,string];
     role: Role;
 } = {
-    name: 'yash verma',
+    name: 'tony stark',
     age: 24,
     product: [12, "qwert"],
     role: Role.ADMIN,
