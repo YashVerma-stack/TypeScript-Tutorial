@@ -1,0 +1,1 @@
+In day 4 we will learn about the function.
